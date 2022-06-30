@@ -1,2 +1,2 @@
-# scipy2022
-Virtual Poster for SciPy2022
+# Differentiable Digital Twins for Automated Characterisation of Quantum Computers
+### Virtual Poster for SciPy2022
