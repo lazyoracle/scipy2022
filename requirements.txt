@@ -1,0 +1,5 @@
+c3-toolset-nightly
+matplotlib
+pandas
+qiskit
+jupyter
